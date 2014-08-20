@@ -1,0 +1,6 @@
+{
+  "search": {
+    "cache": 600000,
+    "url": "www.target.com/api/search"
+  }
+}
