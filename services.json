@@ -1,5 +1,9 @@
 {
   "search": {
+    "default": {
+      "cache": 600000,
+      "url": "www.target.com/api/search"
+    },
     "product": {
       "cache": 600000,
       "url": "www.target.com/api/search"
