@@ -1,6 +1,12 @@
 {
   "search": {
-    "cache": 600000,
-    "url": "www.target.com/api/search"
+    "product": {
+      "cache": 600000,
+      "url": "www.target.com/api/search"
+    },
+    "locations": {
+      "cache": 600000,
+      "url": "www.target.com/api/store-locations"
+    }
   }
 }
